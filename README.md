@@ -1,4 +1,8 @@
-# Hi there! 👋 I'm Nafisa Kamal 
+<div align="center">
+
+# Hi there! 👋 I'm Nafisa Kamal  
+
+![Banner](https://raw.githubusercontent.com/maahi-hue/maahi-hue/refs/heads/main/20240527205423541.jpg)
 
 Welcome to my GitHub! I'm a passionate **Software Developer** and **Computer Science Student** with a love for creating innovative and impactful projects. 🚀  
 
@@ -44,11 +48,13 @@ Welcome to my GitHub! I'm a passionate **Software Developer** and **Computer Sci
 
 ---
 
-
 ## 📫 Let's Connect  
 
 - 📧 Email: [nafisakamal180@gmail.com](mailto:nafisakamal180@gmail.com)  
-- 💼 LinkedIn: (https://www.linkedin.com/in/nafisa-kamal-19381122b/)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nafisa-kamal-19381122b/)  
+
 ---
 
 ✨ _"Building the future, one line of code at a time."_  
+
+</div>
