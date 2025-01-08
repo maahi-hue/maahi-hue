@@ -38,8 +38,8 @@ Welcome to my GitHub! I'm a passionate **Software Developer** and **Computer Sci
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Your GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="Your GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maahi-hue&show_icons=true&theme=radical" alt="Your GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maahi-hue&theme=radical" alt="Your GitHub Streak Stats" width="48%" />
 </p>  
 
 ---
@@ -48,7 +48,7 @@ Welcome to my GitHub! I'm a passionate **Software Developer** and **Computer Sci
 ## 📫 Let's Connect  
 
 - 📧 Email: [nafisakamal180@gmail.com](mailto:nafisakamal180@gmail.com)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/nafisa-kamal-19381122b]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nafisa-kamal-19381122b/))  
+- 💼 LinkedIn: (https://www.linkedin.com/in/nafisa-kamal-19381122b/)
 ---
 
 ✨ _"Building the future, one line of code at a time."_  
