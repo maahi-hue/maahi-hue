@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Nafisa Kamal  
 
-![Banner](https://raw.githubusercontent.com/maahi-hue/maahi-hue/refs/heads/main/20240527205423541.jpg)
+![Banner](https://raw.githubusercontent.com/maahi-hue/maahi-hue/refs/heads/main/Black%20and%20Brown%20Simple%20Modern%20Professional%20Business%20LinkedIn%20Banner.png)
 
 Welcome to my GitHub! I'm a passionate **Software Developer** and **Computer Science Student** with a love for creating innovative and impactful projects. 🚀  
 
