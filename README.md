@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate **Software Developer** and **Computer Sci
 
 ## 🌟 About Me  
 
-- 🎓 **3rd Year BSc in CSE** student with a focus on software development, and web technologies.  
+- 🎓 **4th Year BSc in CSE** student with a focus on software development, and web technologies.  
 - 🌐 Currently building a **restaurant management website** and exploring **React, Tailwind, MongoDB**, and **Firebase**.  
 - 🎮 Developing a **chess game project** in Python using Pygame.  
 - 💡 I love working on AI, web development, and open-source contributions.  
