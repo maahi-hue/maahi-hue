@@ -44,8 +44,16 @@ Welcome to my GitHub! I'm a passionate **Software Developer** and **Computer Sci
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maahi-hue&show_icons=true&theme=radical" alt="Your GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maahi-hue&theme=radical" alt="Your GitHub Streak Stats" width="48%" />
-</p>  
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahi-hue&layout=compact&theme=radical" alt="Languages Used" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maahi-hue&theme=radical" alt="Wakatime Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/maahi-hue/maahi-hue/blob/main/assets/images/your-contributions.svg" alt="Number of Contributions" width="48%" />
+</p>
 ---
 
 ## 📫 Let's Connect  
