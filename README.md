@@ -56,7 +56,6 @@ Welcome to my GitHub! I'm a passionate **Web Developer** and **Computer Science 
 
 - 📧 Email: [nafisakamal180@gmail.com](mailto:nafisakamal180@gmail.com)  
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nafisa-kamal)
-- Contact no.: 01845335595
 
 ---
 
